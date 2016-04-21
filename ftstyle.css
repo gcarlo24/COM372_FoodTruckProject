@@ -25,9 +25,9 @@ h2{
 }
 
 nav{
-  text-align: center;
   font-size:20px;
-  padding:0px;
+  padding:10px;
+  text-align: center;
 }
 
 h3{
@@ -58,6 +58,8 @@ h4{
 p{
   text-align:justify;
   font-size:20px;
+  margin: 10px;
+  padding: 10px;
 }
 
 body{
@@ -73,7 +75,8 @@ img{
 #div4{
   float:left;
   margin:20px;
-  width:40%;
+  width:30%;
+  position:absolute;
 }
 
 #div5{
@@ -81,4 +84,6 @@ img{
   margin:auto;
   text-align:justify;
   float:right;
+  width:20%;
+  position:absolute;
 }
